@@ -1,20 +1,36 @@
+# FocusFlow ⏳🔥
+
+FocusFlow is an offline-first routine tracker and focus hub designed to gamify daily progress, tracking stats, XP, and routines.
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="assets/brand/logo.png" alt="PixelPie Media Logo" width="300" />
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚀 Key Features
 
-View your app in AI Studio: https://ai.studio/apps/e13e036e-0837-407a-b4ad-dfaf69aa37b2
+* **100% Offline Privacy**: Your schedules, metrics, and daily notes never leave your local browser storage.
+* **Gamified Routines**: Earn XP, unlock daily milestones, and build routine streaks.
+* **Fluid Glassmorphism UI**: Beautiful high-contrast dark theme designed for deep focus.
+* **Local Statistics**: Beautiful routine metrics charts to track your execution over time.
 
-## Run Locally
+## 🛠️ Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js (v18+)
 
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+2. **Launch Dev Server**:
+   ```bash
+   npm run dev
+   ```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+<div align="center">
+  <p><b>PixelPie Media</b> • Made with love by Pico</p>
+  <p><i>Modern, minimal, and precise software utilities.</i></p>
+</div>
